@@ -2,3 +2,22 @@ html {
     background-color:lightcyan;
     font-family:'Times New Roman', Times, serif;
 }
+
+h1 {
+    text-align:center;
+    color:cadetblue;
+}
+
+h2{
+    color:cadetblue;
+}
+
+img {
+    display:block;
+    margin:0 auto;
+}
+
+.center_p {
+    text-align: center;
+}
+
