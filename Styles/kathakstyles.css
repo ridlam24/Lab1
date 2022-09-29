@@ -20,6 +20,10 @@ p, li {
     color:rgb(118, 45, 0);
 }
 
+span{
+    color:rgb(249, 28, 72);
+}
+
 img{
     border: brown inset 10px;
 }
