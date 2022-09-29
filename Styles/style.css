@@ -17,9 +17,13 @@ h2{
     text-decoration:underline;
 }
 
-p, li{
+p, li {
     font-family: 'Patua One', cursive;
     font-weight:100;
+}
+
+span {
+    color:rgb(203, 90, 128);
 }
 
 img {
