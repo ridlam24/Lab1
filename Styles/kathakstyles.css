@@ -4,6 +4,7 @@ html {
 
 h1 {
     color:brown;
+    font-family: 'Norican', cursive;
 }
 
 h2 {
@@ -12,6 +13,15 @@ h2 {
 
 h3 {
     color:crimson;
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+p, li {
+    color:rgb(118, 45, 0);
+}
+
+img{
+    border: brown inset 10px;
 }
 
 .pagelink{
