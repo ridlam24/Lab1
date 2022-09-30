@@ -4,13 +4,24 @@ html {
 }
 
 h1 {
+    margin:20px;
+    border:purple solid 10px;
+    padding:7px;
+    background-color:lavender;
+
     text-align:center;
-    color:cadetblue;
+    color:rgb(154, 41, 154);
     font-family: 'Abril Fatface', cursive;
     font-weight:100;
 }
 
 h2{
+    display:inline;
+    margin:20px;
+    border:darkcyan inset 5px;
+    background-color:rgb(200, 255, 246);
+    padding:7px;
+    
     color:cadetblue;
     font-family: 'Abril Fatface', cursive;
     font-weight:100;
@@ -29,11 +40,20 @@ span {
 img {
     display:block;
     margin:0 auto;
+    margin-bottom:20px;
     border:palevioletred inset 10px;
 }
 
 .center_p {
+    width:300px;
     text-align: center;
+
+    display:block;
+    white-space:nowrap;
+    margin:0 auto;
+    border:purple solid 5px;
+    background-color:lavender;
+    padding:7px;
 }
 
 .darkblue{
@@ -44,4 +64,16 @@ img {
     font-family:'Abril Fatface', cursive;
     font-weight:200;
     text-decoration:none;
+}
+
+.no-inline{
+    margin:10px;
+    border:none;
+    padding:none;
+    background-color:lightcyan;
+    display:block;
+}
+
+.leftmargin{
+    margin-left:20px;
 }
